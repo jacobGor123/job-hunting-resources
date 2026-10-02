@@ -78,6 +78,7 @@
 - [JobHunnt](https://jobhunnt.com/)
 - [GetExistential](https://getexistential.com/)
 - [JobScan](https://www.jobscan.co/)
+- [ResumeAI](https://withresumeai.com/) - Free ATS resume checker (3/day anonymous, 10/day free account); [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026)
 - [Aragon AI](https://aragon.ai/)
 - [Recless App](https://recless.app/)
 - [JobProfile](https://jobprofile.io/)
